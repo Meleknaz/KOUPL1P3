@@ -1,9 +1,7 @@
-1-Prolab iki proje adlı dosyayı açınız ve kodunuza uyarlamak istediğiniz txt dosyalarınızı yükleyiniz,
-2-Dosya içinde bulunan '.text dosyasındaki classları' Netbeans geliştirme ortamında açınız,
-3-Dosyanız açıldıktan sonra öncelikle Build ediniz,
-4-Build ettikten sonra kodunuzda bir hata yoksa Run tuşuna basınız,
-5-Grafik ekranında oyununuzun başlangıç seçimini PC-PC yada PC-PERSON yapınız.
-6-PC-PERSON butonunu seçtiyseniz kullanıcı adınızı yazınız ve ardından kart dağıt butonuna basınız. 
-7--PC-PC butonunu seçtiyseniz kart dağıt butonuna basınız. 
-8-Oyun devam ederken elinizdeki kartlar eksildikçe yukarıdan kart seçiniz. 
-9-Hesaplanan skor puanına göre oyunun galibi ekranda yazılıyors.
+1-main.c adlÄ± dosyayÄ± aÃ§Ä±nÄ±z ve kodunuza uyarlamak istediÄŸiniz txt dosyalarÄ±nÄ±zÄ±(sehirler.txt) yÃ¼kleyiniz,
+2-Dosya iÃ§inde bulunan sehirler.text dosyasÄ±nÄ± ve main.c kaynak dosyasÄ±nÄ± CodeBlocks geliÅŸtirme ortamÄ±nda aÃ§Ä±nÄ±z,
+3-DosyanÄ±z aÃ§Ä±ldÄ±ktan sonra Ã¶ncelikle Build ediniz,
+4-Build ettikten sonra kodunuzda bir hata yoksa Run tuÅŸuna basÄ±nÄ±z,
+5-KarÅŸÄ±nÄ±za Ã§Ä±kan konsol ekranÄ±ndaki menÃ¼ye gÃ¶re seÃ§iminizi yapÄ±nÄ±z.
+6-Åehir-komÅŸu ekleme, Ã§Ä±karma, sÄ±ralama iÅŸlemlerinden herhangi bir iÅŸlem sonrasÄ± Ã§Ä±kmak iÃ§in seÃ§ili tuÅŸa basÄ±nÄ±z. 
+
